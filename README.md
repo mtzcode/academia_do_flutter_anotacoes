@@ -1,5 +1,3 @@
-# academia_do_flutter_anotacoes
-
 <h1>Este repositório é para relatar minha experiência na Academia do Flutter </h1>
 
 <h2>Índice 📋</h2>
