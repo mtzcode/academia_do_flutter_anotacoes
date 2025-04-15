@@ -5,6 +5,7 @@
    <p>
 
    - [✅ Progresso](#Progresso)
+   - [🎉 Atividades](#Atividades)
    - [👨🏽‍💻 Desafios](#Desafios)
    - [📅 Até o momento](#Ate-o-momento)
    - [📲 Apps criados no curso](#Apps-criados-no-curso)
@@ -15,7 +16,7 @@
 <h2>Progresso</h2>
 
 - [x] Introdução
-- [ ] Configurando Ambiente de Desenvolvimento
+- [x] Configurando Ambiente de Desenvolvimento
 - [ ] Dart Fundamentos
 - [ ] Dart Funções e Coleções
 - [ ] Dart POO( Programação Orientada a Objeto)
@@ -37,6 +38,10 @@
 - [ ] Mobx
 - [ ] Flutter Modular
 - [ ] Splash Screen Nativa
+
+<h2>Atividades</h2>
+
+[Variáveis](https://github.com/mtzcode/academia_do_flutter_anotacoes/blob/master/lib/atividades/variaveis/01_atividade_variaveis.dart)
 
 
 <h2>Desafios</h2>
